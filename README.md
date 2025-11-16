@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Exploring: Machine Learning, Laravel & Next.js<br>💬 ML workflows, model training, and full-stack development<br>📫 How to reach me: shehanjaya1921@gmail.com<br>⚡ Fun fact: Breaking ML models teaches me more than tutorials ever could.
+🌱 Exploring: Machine Learning, Laravel & Next.js<br>💬 Ask me about:ML workflows, model training, and full-stack development<br>📫 How to reach me: shehanjaya1921@gmail.com<br>⚡ Fun fact: Breaking ML models teaches me more than tutorials ever could.
 
 
 
