@@ -1,4 +1,4 @@
-<h1>Heya! I’m Shehan Jayasinghe, a Computer Science undergraduate based in Matale, Sri Lanka. I’m currently focusing on AI and ML engineering, and building small projects on the side to level up my skills.</h1>
+<h1>Hey! I’m Shehan Jayasinghe, a Computer Science undergraduate based in Matale, Sri Lanka. I’m currently focusing on AI and ML engineering, and building small projects on the side to level up my skills.</h1>
 <p>Aspiring AI/ML Engineer | Building Intelligent Systems & Side Projects</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
